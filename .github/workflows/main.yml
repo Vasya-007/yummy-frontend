@@ -1,7 +1,6 @@
 
 name: Crowdin Action
 env:
-#         GITHUB_TOKEN: ${{secrets.TOKEN_TIG}}"
         CROWDIN_PROJECT_ID: ${{secrets.CROWDIN_PROJECT_ID}}"
         CROWDIN_PERSONAL_TOKEN: ${{secrets.CROWDIN_PERSONAL_TOKEN}}"
 on:
