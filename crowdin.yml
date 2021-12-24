@@ -1,6 +1,7 @@
 commit_message: "Fix: New translations %original_file_name% from Crowdin Enterprise"
 append_commit_message: false
 project_id_env: 1
+project_id: 1
 api_token_env: CROWDIN_PERSONAL_TOKEN
 files:
   - source: /README.md
